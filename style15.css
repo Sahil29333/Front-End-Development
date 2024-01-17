@@ -1,0 +1,12 @@
+body{
+  border: 3px solid black;
+}
+
+div{
+  background-color: rgb(163, 235, 235);
+  margin: 30px;
+}
+
+.container{
+  display: flex;
+}
